@@ -30,7 +30,7 @@ The journal included additional questions and observations about the incident, s
 - How an incident handler's journal can support future investigations and response planning.
 - Best practices for maintaining accurate records during high-pressure incident response scenarios.
 
-# Skills I Acquired
+# Skills learned
 - Incident documentation and record-keeping.
 - Analytical thinking to capture key details and patterns.
 - Communication of technical findings in a clear and organized manner.
