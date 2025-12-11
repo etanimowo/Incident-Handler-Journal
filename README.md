@@ -19,7 +19,7 @@ In the journal entry, I addressed the following questions:
 # Additional Notes
 The journal included additional questions and observations about the incident, such as:
 
-# Immediate containment steps taken.
+- Immediate containment steps taken.
 - Initial impact assessment.
 - Communication with affected stakeholders.
 - Any preliminary findings that could assist with remediation.
